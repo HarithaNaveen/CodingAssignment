@@ -1,0 +1,38 @@
+{
+    "serviceReservation" : {
+        "orderNumber" : "8fbe5621-56a4-4581-9508-1dc3384e7959",
+        "customers" : [
+            {
+                "customerSequenceNumberInRequest" : "1",
+                "individual" : {
+                    "firstName" : "FIRSTNAME",
+                    "lastName" : "LASTNAME",
+                    "reservationName" : "ggggg",
+                    "individualNumber" : "52e18787-c9f9-458e-bd61-8845ff2fb2a4"
+                }
+            }
+        ],
+        "id" : "5d4b1d26e4b044618976bcae",
+        "orderNumberOfExternalProvider" : "29313096",
+        "numberOfPersons" : 3,
+        "orderDateTime" : "2019-08-07T20:49:09.314",
+        "loungeProduct" : {
+            "restaurants" : [
+                {
+                    "lounge" : {
+                        "name" : "LOUNGE52",
+                        "locatedIn" : {
+                            "iataCode" : "AMS"
+                        }
+                    }
+                }
+            ]
+        },
+        "remarksByCustomer" : "ffssg",
+        "links" : {
+            "serviceReservation" : {
+                "href" : "https:\/\/api-ute1.airfranceklm.com\/travel\/loungeservices\/servicereservations\/5d4b1d26e4b044618976bcae"
+            }
+        }
+    }
+}
